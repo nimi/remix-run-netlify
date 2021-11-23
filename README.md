@@ -2,6 +2,8 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+ℹ️ To deploy to Netlify, set your `AWS_LAMBDA_JS_RUNTIME` environment variable to `nodejs14.x` in the Netlify UI or via the Netlify CLI with `netlify env:set AWS_LAMBDA_JS_RUNTIME nodejs14.x`
+
 ## Netlify Setup
 
 1. Install the [Netlify CLI](https://www.netlify.com/products/dev/):
